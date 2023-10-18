@@ -3,4 +3,4 @@ Learning react from chai aur code.
 
 <br>
 
-Author aayushh yadav 
+Author -ajay
